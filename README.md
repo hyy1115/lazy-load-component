@@ -2,12 +2,14 @@
 
 ### 安装
 ```node
-npm i --save lazyLoadComponent
+npm i --save lazy-load-component
 ```
 
 ### 用法
 如果你的react项目使用了webpack，那么可以使用lazyLoadComponent实现代码切割。
 ```javascript
+import lazyLoadComponent from 'lazy-load-component'
+
 const Login = lazyLoadComponent(() => import('./containers/Login'))
 ```
 
