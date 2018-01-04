@@ -1,0 +1,19 @@
+{
+  "name": "lazy-load-component",
+  "version": "1.0.0",
+  "description": "### 安装 ```node npm i --save lazyLoadComponent ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyy1115/lazyLoadComponent.git"
+  },
+  "author": "hyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyy1115/lazyLoadComponent/issues"
+  },
+  "homepage": "https://github.com/hyy1115/lazyLoadComponent#readme"
+}
