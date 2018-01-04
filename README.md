@@ -1,4 +1,4 @@
-# lazyLoadComponent
+# lazy-load-component
 
 ### 安装
 ```node
