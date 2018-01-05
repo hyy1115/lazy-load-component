@@ -1,2 +1,2 @@
-import lazyLoadComponent from 'src/index'
+import lazyLoadComponent from './dist/index'
 export default lazyLoadComponent
