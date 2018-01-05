@@ -1,6 +1,6 @@
 {
   "name": "lazy-load-component",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "### 安装 ```node npm i --save lazyLoadComponent ```",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/hyy1115/lazyLoadComponent#readme",
   "dependencies": {
-    "react": "^16.2.0"
+    "react": "^16.0.0"
   }
 }
